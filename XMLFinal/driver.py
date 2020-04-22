@@ -97,4 +97,3 @@ for element in newworkflowname:
     output_doc = xslt_transformer(source_doc)
     output_doc.write(element+".html", pretty_print=True)
     print(element+".html")
-    print("Hello Test")
