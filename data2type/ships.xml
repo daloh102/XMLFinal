@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shiptypes name="United Federation of Planets">
   <ship name="USS Enterprise">
-    <class>Sovereign</class>
+    <class>Sovereigns</class>
     <captain>Jean-Luc Picard</captain>
     <registry-code>NCC-1701-E</registry-code>
   </ship>
